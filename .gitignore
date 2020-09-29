@@ -17,3 +17,4 @@ test
 .gitattributes
 .travis.yml
 CHANGELOG.md
+test_long
