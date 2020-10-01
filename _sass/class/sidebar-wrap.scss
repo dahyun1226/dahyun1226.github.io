@@ -1,6 +1,6 @@
 .sidebar {
   color: $theme-white;
-  background: $theme-menu-background;
+  background: $theme-white;
 
   a {
     text-decoration: none;
@@ -16,12 +16,12 @@
 
 .toctree {
   a {
-    color: $theme-white;
+    color: black;
     padding: 0.5em;
   }
 
   .caption {
-    color: lighten($theme-blue, 15%);
+    color: black;
     font-weight: $font-weight-bold;
     line-height: 32px;
   }
