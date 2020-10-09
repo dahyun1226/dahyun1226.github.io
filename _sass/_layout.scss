@@ -37,7 +37,7 @@
 @include breakpoint(md) {
   .menu-md {
     left: 0;
-    width: $theme-menu-width;
+    width: $theme-menu-width + 20px;
   }
 
   .sidebar-wrap {
