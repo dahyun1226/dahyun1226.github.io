@@ -63,9 +63,9 @@
       }
       // parent links
       > a {
-        .fa-plus-square-o {
-          @extend .fa-minus-square-o;
-        }
+        // .fa-plus-square-o {
+        //   @extend .fa-minus-square-o;
+        // }
       }
     }
     // fixed level-1's hover mask
