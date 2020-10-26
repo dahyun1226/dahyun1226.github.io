@@ -12,7 +12,12 @@ IT 커뮤니티 MASH - UP
 
 2020.03 ~ 진행중
 
+백준 온라인 저지 
+
+<img src="../assets/image/resume/baek20201027.png"  width="900" height="700">
+
 ---
+# 프로젝트
 
 ## PC방 관리 웹 프로젝트
 
@@ -28,25 +33,25 @@ React로 프론트엔드를, MYSQL과 NodeJS (Koa-Server)로 백엔드를 구현
 
 #### 프론트엔드 React
 
-<img src="../assets/image/resume/project/pcroom/main1.png"  width="800" height="400">
-<img src="../assets/image/resume/project/pcroom/main2.png"  width="800" height="400">
-<img src="../assets/image/resume/project/pcroom/adduser.png"  width="700" height="400">
-<img src="../assets/image/resume/project/pcroom/alluser.png"  width="800" height="400">
-<img src="../assets/image/resume/project/pcroom/chargeuser.png"  width="800" height="400">
-<img src="../assets/image/resume/project/pcroom/login1.png"  width="700" height="600">
-<img src="../assets/image/resume/project/pcroom/login2.png"  width="700" height="600">
-<img src="../assets/image/resume/project/pcroom/login3.png"  width="700" height="600">
-<img src="../assets/image/resume/project/pcroom/seat.png"  width="700" height="600">
-<img src="../assets/image/resume/project/pcroom/seat1.png"  width="700" height="600">
-<img src="../assets/image/resume/project/pcroom/seat2.png"  width="700" height="600">
-<img src="../assets/image/resume/project/pcroom/stat.png"  width="800" height="600">
+<img src="../assets/image/resume/project/pcroom/main1.png"  width="1000" height="500">
+<img src="../assets/image/resume/project/pcroom/main2.png"  width="1000" height="500">
+<img src="../assets/image/resume/project/pcroom/adduser.png"  width="1000" height="500">
+<img src="../assets/image/resume/project/pcroom/alluser.png"  width="1000" height="500">
+<img src="../assets/image/resume/project/pcroom/chargeuser.png"  width="1000" height="500">
+<img src="../assets/image/resume/project/pcroom/login1.png"  width="840" height="720">
+<img src="../assets/image/resume/project/pcroom/login2.png"  width="840" height="720">
+<img src="../assets/image/resume/project/pcroom/login3.png"  width="840" height="720">
+<img src="../assets/image/resume/project/pcroom/seat.png"  width="840" height="720">
+<img src="../assets/image/resume/project/pcroom/seat1.png"  width="840" height="720">
+<img src="../assets/image/resume/project/pcroom/seat2.png"  width="840" height="720">
+<img src="../assets/image/resume/project/pcroom/stat.png"  width="1000" height="800">
 ___
 
 #### 백엔드 (MYSQL, NodeJS (Koa-Server))
 
-<img src="../assets/image/resume/project/pcroom/mysql.png"  width="800" height="400">
-<img src="../assets/image/resume/project/pcroom/server.png"  width="800" height="400">
-<img src="../assets/image/resume/project/pcroom/erdiagram.png"  width="800" height="400">
+<img src="../assets/image/resume/project/pcroom/mysql.png"  width="1000" height="500">
+<img src="../assets/image/resume/project/pcroom/server.png"  width="1000" height="500">
+<img src="../assets/image/resume/project/pcroom/erdiagram.png"  width="1000" height="500">
 </div>
 </details>
 
@@ -72,20 +77,20 @@ ___
 
 ### 날씨 불러오는 앱
 
-<img src="../assets/image/resume/project/hellchang/f1.jpeg"  width="400" height="700">
-<img src="../assets/image/resume/project/hellchang/f2.jpeg"  width="400" height="700">
+<img src="../assets/image/resume/project/hellchang/f1.jpeg"  width="480" height="840">
+<img src="../assets/image/resume/project/hellchang/f2.jpeg"  width="480" height="840">
 
 ### TODO 앱
 
-<img src="../assets/image/resume/project/hellchang/k1.jpeg"  width="400" height="700">
-<img src="../assets/image/resume/project/hellchang/k2.jpeg"  width="400" height="700">
+<img src="../assets/image/resume/project/hellchang/k1.jpeg"  width="480" height="840">
+<img src="../assets/image/resume/project/hellchang/k2.jpeg"  width="480" height="840">
 
 ### Hellchang Counter 헬창카운터
 
-<img src="../assets/image/resume/project/hellchang/hc1.jpeg"  width="400" height="700">
-<img src="../assets/image/resume/project/hellchang/hc2.jpeg"  width="400" height="700">
-<img src="../assets/image/resume/project/hellchang/hc3.jpeg"  width="400" height="700">
-<img src="../assets/image/resume/project/hellchang/hc4.jpeg"  width="400" height="700">
+<img src="../assets/image/resume/project/hellchang/hc1.jpeg"  width="480" height="840">
+<img src="../assets/image/resume/project/hellchang/hc2.jpeg"  width="480" height="840">
+<img src="../assets/image/resume/project/hellchang/hc3.jpeg"  width="480" height="840">
+<img src="../assets/image/resume/project/hellchang/hc4.jpeg"  width="480" height="840">
 
 </div>
 </details>
@@ -105,10 +110,10 @@ ___
 <summary>프로젝트 사진</summary>
 <div markdown="1">
 
-<img src="../assets/image/resume/project/androidtoy/toy1.png"  width="400" height="700">
-<img src="../assets/image/resume/project/androidtoy/toy2.png"  width="400" height="700">
-<img src="../assets/image/resume/project/androidtoy/toy3.png"  width="400" height="700">
-<img src="../assets/image/resume/project/androidtoy/toy4.png"  width="400" height="700">
+<img src="../assets/image/resume/project/androidtoy/toy1.png"  width="480" height="840">
+<img src="../assets/image/resume/project/androidtoy/toy2.png"  width="480" height="840">
+<img src="../assets/image/resume/project/androidtoy/toy3.png"  width="480" height="840">
+<img src="../assets/image/resume/project/androidtoy/toy4.png"  width="480" height="840">
 </div>
 </details>
 ___
@@ -127,17 +132,17 @@ ___
 <summary>프로젝트 사진</summary>
 <div markdown="1">
 
-<img src="../assets/image/resume/project/jado/jado1.png"  width="700" height="400">
-<img src="../assets/image/resume/project/jado/jado2.png"  width="700" height="400">
-<img src="../assets/image/resume/project/jado/jado3.png"  width="700" height="400">
-<img src="../assets/image/resume/project/jado/jado4.png"  width="700" height="400">
-<img src="../assets/image/resume/project/jado/jado5.png"  width="700" height="400">
+<img src="../assets/image/resume/project/jado/jado1.png"  width="840" height="480">
+<img src="../assets/image/resume/project/jado/jado2.png"  width="840" height="480">
+<img src="../assets/image/resume/project/jado/jado3.png"  width="840" height="480">
+<img src="../assets/image/resume/project/jado/jado4.png"  width="840" height="480">
+<img src="../assets/image/resume/project/jado/jado5.png"  width="840" height="480">
 
-<img src="../assets/image/resume/project/jado/splash.png"  width="400" height="700">
-<img src="../assets/image/resume/project/jado/login.png"  width="400" height="700">
-<img src="../assets/image/resume/project/jado/login2.png"  width="400" height="700">
-<img src="../assets/image/resume/project/jado/nickname.png"  width="400" height="700">
-<img src="../assets/image/resume/project/jado/completed.png"  width="400" height="700">
+<img src="../assets/image/resume/project/jado/splash.png"  width="480" height="840">
+<img src="../assets/image/resume/project/jado/login.png"  width="480" height="840">
+<img src="../assets/image/resume/project/jado/login2.png"  width="480" height="840">
+<img src="../assets/image/resume/project/jado/nickname.png"  width="480" height="840">
+<img src="../assets/image/resume/project/jado/completed.png"  width="480" height="840">
 
 </div>
 </details>
@@ -169,27 +174,27 @@ ___
 
 ### 보드게임 설명 자체 제작 사진 - 달무티
 
-<img src="../assets/image/resume/project/boardgameworld/dal1.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/dal4.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/dal3.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/dal2.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/dal5.png"  width="700" height="600">
+<img src="../assets/image/resume/project/boardgameworld/dal1.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/dal4.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/dal3.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/dal2.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/dal5.png"  width="840" height="720">
 
 ### 보드게임 설명 자체 제작 사진 - 돈 터치 크라켄
 
-<img src="../assets/image/resume/project/boardgameworld/donttouch1.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/donttouch2.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/donttouch3.png"  width="700" height="600">
+<img src="../assets/image/resume/project/boardgameworld/donttouch1.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/donttouch2.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/donttouch3.png"  width="840" height="720">
 
 ### 보드게임 설명 자체 제작 사진 - 스플렌더
 
-<img src="../assets/image/resume/project/boardgameworld/splender1.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/splender2.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/splender3.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/splender4.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/splender5.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/splender6.png"  width="700" height="600">
-<img src="../assets/image/resume/project/boardgameworld/splender7.png"  width="700" height="600">
+<img src="../assets/image/resume/project/boardgameworld/splender1.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/splender2.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/splender3.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/splender4.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/splender5.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/splender6.png"  width="840" height="720">
+<img src="../assets/image/resume/project/boardgameworld/splender7.png"  width="840" height="720">
 
 </div>
 </details>
