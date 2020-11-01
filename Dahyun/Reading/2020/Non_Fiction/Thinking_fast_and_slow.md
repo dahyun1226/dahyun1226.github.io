@@ -1,4 +1,4 @@
-# Thinking_Fast_And_Slow
+# Thinking Fast And Slow
 
 나름 유명한 책이다. 번역본의 이름은 '생각에 대한 생각'. 잘 지은 것 같다. 
 
