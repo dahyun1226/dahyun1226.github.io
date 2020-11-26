@@ -20,4 +20,12 @@ p17 The signal is the truth. The noise is what distracts us from the truth. This
 
 주제를 드러내는 intro의 마지막 문장.
 
+- A CATASTROPHIC FAILURE OF PREDICTION
 
+서브프라임 모기지 사태에 대해 다룬다. 핵심은 버블의 가능성은 알았지만 버블의 위험성은 예측하지 못했다... 정도? 물론 여러가지가 꼬여있지만,
+
+잘못된 정보로 생각을 했다는게 문제라는 거다. 사실 이 사태는 좀 유명한지라 읽으면서 그려려니 했다. 약간 익숙했던 내용들이랄까.
+
+p43 the events these forecasters were considering were out of sample.
+
+- ARE YOU SMARTER THAN A TELEVISION PUNDIT?

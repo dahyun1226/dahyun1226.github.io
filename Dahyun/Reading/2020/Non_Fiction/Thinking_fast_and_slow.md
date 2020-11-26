@@ -1,6 +1,7 @@
 # Thinking Fast And Slow
 
 ### Daniel kahneman 저 | Farrar, Straus and Giroux 
+
 나름 유명한 책이다. 번역본의 이름은 '생각에 대한 생각'. 잘 지은 것 같다. 
 
 책 내용이 딱 그 생각이라는 것에 대한 이야기니까. 
